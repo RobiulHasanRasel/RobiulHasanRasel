@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Robiul Hasan Rasel</h1>
-<h3 align="center">A passionate Software Engineer and Web developer from Bangladesh</h3>
-
+<h3 align="center">A passionate Software Engineer and Web developer from Bangladesh</h3>   
+<img align="right" alt="coding" width="400" src="https://github.com/RobiulHasanRasel/RobiulHasanRasel/blob/main/futuristic-coding-workspace-stockcake.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robiulhasanrasel&label=Profile%20views&color=0e75b6&style=flat" alt="robiulhasanrasel" /> </p>
 
